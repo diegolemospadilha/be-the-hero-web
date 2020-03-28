@@ -70,7 +70,6 @@ function NewIncident() {
             onChange={e => setValue(e.target.value)}
           />
 
-          <button className="button">Cancelar</button>
           <button className="button">Cadastrar</button>
         </form>
       </div>
